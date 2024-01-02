@@ -1,0 +1,13 @@
+nav{
+    display: flex;
+}
+nav li{
+    list-style: none;
+}
+nav ul{
+    display: flex;
+    flex: 1;
+    gap: 3rem;
+    justify-content: flex-end;
+    margin-right: 2rem;
+}
